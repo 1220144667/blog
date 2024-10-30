@@ -1,0 +1,2 @@
+2024/10/29 20:01:05 {"callers":["/Users/wenwu/go-programming-tour-book/blog-service/main.go: 53 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1730203265893175000}
+2024/10/29 20:27:30 {"callers":["/Users/wenwu/go-programming-tour-book/blog-service/main.go: 53 main.init.0"],"level":"info","message":"洪陪: 测试日志上传/blog","time":1730204850575329000}
