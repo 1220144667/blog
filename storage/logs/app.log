@@ -1,2 +1,1 @@
-2024/10/29 20:01:05 {"callers":["/Users/wenwu/go-programming-tour-book/blog-service/main.go: 53 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1730203265893175000}
-2024/10/29 20:27:30 {"callers":["/Users/wenwu/go-programming-tour-book/blog-service/main.go: 53 main.init.0"],"level":"info","message":"洪陪: 测试日志上传/blog","time":1730204850575329000}
+2024/10/31 22:49:51 {"callers":["/Users/wenwu/go-programming-tour-book/blog-service/main.go: 53 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1730386191546663000}

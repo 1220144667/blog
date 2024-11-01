@@ -2,7 +2,7 @@
  * @Author: 洪陪 hp2022a@163.com
  * @Date: 2024-10-23 17:00:32
  * @LastEditors: 洪陪 hp2022a@163.com
- * @LastEditTime: 2024-10-29 21:36:20
+ * @LastEditTime: 2024-10-30 21:16:15
  * @FilePath: /blog-service/internal/routers/api/v1/article.go
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -23,7 +23,6 @@ func NewArticle() Article {
 
 func (a Article) Get(c *gin.Context) {
 	app.NewResponse(c).ToErrorResponse(errcode.ServerError)
-	return
 }
 
 // @Summary 获取多个文章
